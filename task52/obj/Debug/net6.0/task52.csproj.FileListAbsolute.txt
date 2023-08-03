@@ -1,0 +1,15 @@
+C:\Pavel\C#\home_work\7\task52\bin\Debug\net6.0\task52.exe
+C:\Pavel\C#\home_work\7\task52\bin\Debug\net6.0\task52.deps.json
+C:\Pavel\C#\home_work\7\task52\bin\Debug\net6.0\task52.runtimeconfig.json
+C:\Pavel\C#\home_work\7\task52\bin\Debug\net6.0\task52.dll
+C:\Pavel\C#\home_work\7\task52\bin\Debug\net6.0\task52.pdb
+C:\Pavel\C#\home_work\7\task52\obj\Debug\net6.0\task52.csproj.AssemblyReference.cache
+C:\Pavel\C#\home_work\7\task52\obj\Debug\net6.0\task52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pavel\C#\home_work\7\task52\obj\Debug\net6.0\task52.AssemblyInfoInputs.cache
+C:\Pavel\C#\home_work\7\task52\obj\Debug\net6.0\task52.AssemblyInfo.cs
+C:\Pavel\C#\home_work\7\task52\obj\Debug\net6.0\task52.csproj.CoreCompileInputs.cache
+C:\Pavel\C#\home_work\7\task52\obj\Debug\net6.0\task52.dll
+C:\Pavel\C#\home_work\7\task52\obj\Debug\net6.0\refint\task52.dll
+C:\Pavel\C#\home_work\7\task52\obj\Debug\net6.0\task52.pdb
+C:\Pavel\C#\home_work\7\task52\obj\Debug\net6.0\task52.genruntimeconfig.cache
+C:\Pavel\C#\home_work\7\task52\obj\Debug\net6.0\ref\task52.dll
